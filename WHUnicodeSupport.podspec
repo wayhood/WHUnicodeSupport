@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "WHUnicodeSupport"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "NSArray, NSDictionary and NSSet class unicode Suport When use NSLog function for apple platform"
   s.homepage     = "https://github.com/wayhood/WHUnicodeSupport"
   s.author             = { "The wayhood (Beijing) Technology Co., Ltd." => "wayhood@163.com" }
