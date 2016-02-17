@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/wayhood/WHUnicodeSupport"
   s.author             = { "The wayhood (Beijing) Technology Co., Ltd." => "wayhood@163.com" }
   s.source       = { :git => "https://github.com/wayhood/WHUnicodeSupport.git", :tag => "{s.version}" }
-  s.source_files  = "WHUnicodeSupport/**/*.{h,m}"
+  s.source_files  = "*.{h,m}"
   s.ios.deployment_target = "5.0"
   s.osx.deployment_target = "10.7"
   s.watchos.deployment_target = "2.0"
