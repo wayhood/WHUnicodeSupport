@@ -1,9 +1,9 @@
 //
-//  NSArray+WHUnicodeSupoort.h
+//  NSArray+WHUnicodeSupport.h
 //
 
 #import <Foundation/Foundation.h>
 
-@interface NSArray (WHUnicodeSupoort)
+@interface NSArray (WHUnicodeSupport)
 
 @end
